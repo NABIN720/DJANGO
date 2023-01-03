@@ -1,0 +1,1 @@
+startapp like creating another folder relating to django= python manage.py startapp app_name(project_name)
